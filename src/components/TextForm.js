@@ -90,7 +90,6 @@ function TextForm(props) {
         <p>You can read in {0.008 * text.split(" ").length}</p>
         <h3>Preview</h3>
         <p>{text}</p>
-        <h1>Hii</h1>
       </div>
     </div>
   );
